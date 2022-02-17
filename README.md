@@ -38,15 +38,12 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<br />
+<br>
 
 ### **_📊 GitHub Profile Stats_**
 
 <img align="left" alt="binhnguyen2501 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=binhnguyen2501&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyenary&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-
-<h1 align="center">Hi 👋, I'm Binh Nguyen</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=binhnguyen2501&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binhnguyen2501&label=Profile%20views&color=0e75b6&style=flat" alt="binhnguyen2501" /> </p>
 
