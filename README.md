@@ -9,8 +9,6 @@
     </em>
 </p>
 
-<br>
-
 <img align="right" width=200px height=200px alt="side_sticker" src="./img/profile_dev.jpg" />
 
 ### <img src="./img/stats.gif" width="30px"> **_About Me_**
