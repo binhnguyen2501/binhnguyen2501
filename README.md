@@ -1,6 +1,6 @@
 ![alt text](./img/header.svg)
 
-<h3 align="center">Front-end Developer</h3>
+<h2 align="center">Front-end Developer</h2>
 <p align="center">
     <em>
     I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./img/Developer.gif" width="30px">
