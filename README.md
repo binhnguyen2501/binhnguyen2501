@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" width=300px height=200px alt="side_sticker" src="./img/profile_dev.jpg" />
+<img align="right" width=300px height=300px alt="side_sticker" src="./img/profile_dev.jpg" />
 
 ### <img src="./img/stats.gif" width="30px"> **_About Me_**
 
