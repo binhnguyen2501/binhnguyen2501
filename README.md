@@ -1,4 +1,4 @@
-![alt text](./images/header.svg)
+![alt text](./img/header.svg)
 
 ## I am a Front-end Developer based in Vietnam.
 
