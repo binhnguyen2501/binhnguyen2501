@@ -1,8 +1,14 @@
 ![alt text](./img/header.svg)
 
-## I am a Front-end Developer based in Vietnam.
+<h1>I am a Front-end Developer based in Vietnam.</h1>
 
-I am a self-taught programmer. Has a great fondness for code enjoys learning new technologies.
+<p>
+I'm a self-taught programmer. Has a great fondness for code enjoys learning new technologies.
+    <em>
+        I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./img/Developer.gif" width="30px">
+        <br>enjoys learning <b>new technologies</b> <img src="./img/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
+    </em>
+</p>
 
 - 🌱 I’m currently learning everything
 - 🥅 Goals: Learn more and become a better programmer
