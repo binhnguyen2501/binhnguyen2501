@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning everything
 - 🥅 Goals: Learn more and become a better programmer
-- ⚡ Fun fact: I love to go to the the gym after encountering bug codes to relieve stress
+- ⚡ Fun fact: I love to go to the the gym after encountering bug codes
 - 😻 Check out the Portfolio I created: [Call me 𝓑𝓲𝓷𝓱](https://binh-portfolio.vercel.app/)
 
 ### Connect with me:
