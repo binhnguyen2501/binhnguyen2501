@@ -3,7 +3,10 @@
 <h1>I am a Front-end Developer based in Vietnam.</h1>
 
 <p>
-I'm a self-taught <b>programmer</b> <img src="./img/Developer.gif" width="30px">. Has a great fondness for code enjoys learning <b>new technologies</b>. <img src="./img/Designer.gif" width="36px">
+    <em>
+        I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./img/Developer.gif" width="30px">
+        enjoys learning <b>new technologies</b> <img src="./img/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
+    </em>
 </p>
 
 - 🌱 I’m currently learning everything
