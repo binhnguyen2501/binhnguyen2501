@@ -1,6 +1,6 @@
 # Hi there, I'm Binh Nguyen 👋
 
-## I am a self-taught programmer. Has a great fondness for code enjoys learning new technologies. And I'm a Front-end Developer based in Vietnam.
+## I am a self-taught programmer. Has a great fondness for code enjoys learning new technologies.
 
 - 🌱 I’m currently learning everything
 - 🥅 Goals: Learn more and become a better programmer
