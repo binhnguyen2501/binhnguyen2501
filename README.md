@@ -45,7 +45,7 @@ I am a self-taught programmer. Has a great fondness for code enjoys learning new
 ---
 
 <summary>:zap: GitHub Stats</summary>
-
+<br />
 <img align="left" alt="binhnguyen2501 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=binhnguyen2501&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [facebook]: https://www.facebook.com/thanhbinh2501
