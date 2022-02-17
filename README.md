@@ -49,6 +49,8 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
+![divider](./img/divider.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binhnguyen2501&label=Profile%20views&color=0e75b6&style=flat" alt="binhnguyen2501" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binhnguyen2501" alt="binhnguyen2501" /></a> </p>
