@@ -4,10 +4,16 @@
 
 <p>
     <em>
-        I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./img/Developer.gif" width="30px">
+        I'm a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./img/Developer.gif" width="30px">
         enjoys learning <b>new technologies</b> <img src="./img/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
     </em>
 </p>
+
+<br>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="./img/profile_dev.jpg" />
+
+### <img src="./img/stats.gif" width="30px"> **_About Me_**
 
 - 🌱 I’m currently learning everything
 - 🥅 Goals: Learn more and become a better programmer
