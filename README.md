@@ -61,11 +61,11 @@
     <a href="https://linkedin.com/in/binh-nguyen-7295b1225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binh-nguyen-7295b1225" height="30" width="40" /></a>
     <a href="https://fb.com/thanhbinh2501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanhbinh2501" height="30" width="40" /></a>
     <a href="https://instagram.com/thanhbinh98_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thanhbinh98_" height="30" width="40" /></a>
-	<a href="mailto:nguyenary14@gmail.com"><img width="30px" src="./img/gmail.png" title="Gmail"/></a>
+	<a href="mailto:nguyenary14@gmail.com"><img align="center" src="./img/gmail.png" title="Gmail" height="30" width="40"/></a>
   </p>
 
   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=nguyenary&label=Profile+Views" alt="binhnguyen2501" />
+      <img src="https://komarev.com/ghpvc/?username=binhnguyen2501&label=Profile+Views" alt="binhnguyen2501" />
   </p>
 </p>
 
