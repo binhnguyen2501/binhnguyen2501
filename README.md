@@ -40,15 +40,10 @@
 
 <br />
 
----
+### **_📊 GitHub Profile Stats_**
 
-<summary>:zap: GitHub Stats</summary>
-<br />
 <img align="left" alt="binhnguyen2501 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=binhnguyen2501&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-[facebook]: https://www.facebook.com/thanhbinh2501
-[instagram]: https://www.instagram.com/thanhbinh98_/?hl=vi
-[linkedin]: https://www.linkedin.com/in/binh-nguyen-7295b1225
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyenary&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 
 <h1 align="center">Hi 👋, I'm Binh Nguyen</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
