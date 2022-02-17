@@ -1,6 +1,4 @@
-# Hi there, I'm Binh Nguyen 👋
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+![alt text](./images/header.svg)
 
 ## I am a Front-end Developer based in Vietnam.
 
