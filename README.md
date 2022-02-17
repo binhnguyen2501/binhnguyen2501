@@ -76,3 +76,5 @@ I am a self-taught programmer. Has a great fondness for code enjoys learning new
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binhnguyen2501&show_icons=true&locale=en" alt="binhnguyen2501" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binhnguyen2501&" alt="binhnguyen2501" /></p>
+
+![alt text](./img/footer.svg)
