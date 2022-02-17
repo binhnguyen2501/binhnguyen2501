@@ -9,6 +9,8 @@
     </em>
 </p>
 
+<br>
+
 <img align="right" width=200px height=200px alt="side_sticker" src="./img/profile_dev.jpg" />
 
 ### <img src="./img/stats.gif" width="30px"> **_About Me_**
@@ -18,22 +20,7 @@
 - ⚡ Fun fact: I love to go to the the gym after encountering bug codes
 - 😻 Check out the Portfolio I created: [Call me 𝓑𝓲𝓷𝓱](https://binh-portfolio.vercel.app/)
 
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/binh-nguyen-7295b1225)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/binh-nguyen-7295b1225)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/thanhbinh98_/?hl=vi)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/thanhbinh98_/?hl=vi)
+<br>
 
 ### Languages and Tools:
 
